@@ -1,0 +1,12 @@
+{
+  "name": "The RNR Labs",
+  "short_name": "RNRLabs",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [{
+    "src": "pwd/win32.ico",
+    "sizes": "256x256 48x48 32x32 16x16",
+    "type": "image/png"
+  }],
+  "related_applications": []
+}
